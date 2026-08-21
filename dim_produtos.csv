@@ -1,0 +1,16 @@
+id_produto,nome_produto,categoria,custo_unitario,preco_venda
+101,Smartphone Galaxy S23,Eletrônicos,2004.75,3176.69
+102,Notebook Dell Inspiron,Eletrônicos,1891.83,4043.83
+103,Fone de Ouvido Bluetooth JBL,Eletrônicos,133.24,207.74
+104,Smartwatch Apple Watch,Eletrônicos,1695.62,2804.45
+105,Monitor LG 27 UltraWide,Eletrônicos,858.02,1347.1
+106,Camisa Polo Algodão,Vestuário,73.42,137.92
+107,Calça Jeans Slim,Vestuário,89.63,143.03
+108,Tênis Esportivo Running,Vestuário,191.74,424.26
+109,Jaqueta Esporte Fino,Vestuário,291.96,438.81
+110,Vestido Casual Verão,Vestuário,76.82,153.35
+111,Geladeira Brastemp Frost Free,Eletrodomésticos,1612.76,3133.63
+112,Máquina de Lavar 12kg,Eletrodomésticos,1399.55,2629.26
+113,Micro-ondas 30L Embutir,Eletrodomésticos,381.24,644.98
+114,Air Fryer Digital 5L,Eletrodomésticos,271.23,440.95
+115,Cafeteira Expressa Espresso,Eletrodomésticos,291.44,517.13

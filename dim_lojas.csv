@@ -1,0 +1,6 @@
+id_loja,nome_loja,cidade,estado,tipo
+1,E-commerce Oficial,São Paulo,SP,Online
+2,Loja Shopping Morumbi,São Paulo,SP,Física
+3,Loja Centro Rio,Rio de Janeiro,RJ,Física
+4,Loja Savassi,Belo Horizonte,MG,Física
+5,Loja Batel,Curitiba,PR,Física
