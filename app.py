@@ -116,7 +116,7 @@ col_g1, col_g2 = st.columns([2, 1])
 
 with col_g1:
     # Evolução Mensal da Receita e Lucro
-    df_mensal = df_filtrado.set_index('data_venda').resample('M').agg({
+    df_mensal = df_filtrado.set_index('data_venda').resample('ME').agg({
         'receita_real': 'sum',
         'lucro_bruto': 'sum',
         'perda_operacional': 'sum'
